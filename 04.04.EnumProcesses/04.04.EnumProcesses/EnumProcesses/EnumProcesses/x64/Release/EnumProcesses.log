@@ -1,0 +1,7 @@
+﻿  main.cpp
+c:\users\user\downloads\04.04.enumprocesses\04.04.enumprocesses\enumprocesses\enumprocesses\main.cpp(155): warning C4311: 'type cast': pointer truncation from 'BYTE *' to 'DWORD'
+c:\users\user\downloads\04.04.enumprocesses\04.04.enumprocesses\enumprocesses\enumprocesses\main.cpp(155): warning C4302: 'type cast': truncation from 'BYTE *' to 'DWORD'
+  Generating code
+  All 10 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  EnumProcesses.vcxproj -> C:\Users\user\Downloads\04.04.EnumProcesses\04.04.EnumProcesses\EnumProcesses\x64\Release\EnumProcesses.exe
