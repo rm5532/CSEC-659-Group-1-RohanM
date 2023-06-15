@@ -1,0 +1,30 @@
+# **04.02.CreateProcess**
+
+## **OBJECTIVES**
+
+* Understand the usage of CreateProcess
+
+## **STEPS**
+
+### **1). Open CreateProcess.sln**
+
+Compile the Release build.
+
+Run the Release build with mspaint.exe as an input argument.
+
+```raw
+CreateProcess mspaint.exe
+```
+
+Set to Debug configuration.
+
+Set a breakpoint before CreateProcessA and run the debugger stepping thru the program until mspaint.exe runs.
+
+Modify line 20 and change mspaint.exe to notepad.exe.
+
+Run the debugger stepping thru the program until notepad.exe runs.
+
+screenshots for the lab doc:
+
+* notepad spawned.
+* mspaint spawned.
