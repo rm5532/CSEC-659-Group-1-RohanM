@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\user\downloads\04.01.host-and-user-enum\04.01.host-and-user-enum\host-and-user-enum\host-and-user-enum\main.cpp(54): warning C4189: 'bRet': local variable is initialized but not referenced
+  Host-and-User-Enum.vcxproj -> C:\Users\user\Downloads\04.01.Host-and-User-Enum\04.01.Host-and-User-Enum\Host-and-User-Enum\x64\Debug\Host-and-User-Enum.exe
